@@ -12,4 +12,5 @@ if __name__ == '__main__':
         project='runs/detect',
         name='model2_medium',
         exist_ok=True
+
     )
