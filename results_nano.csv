@@ -1,2 +1,0 @@
-epoch,         train/box_loss,         train/cls_loss,         train/dfl_loss,      metrics/precision(B),         metrics/recall(B),            metrics/mAP50(B),         metrics/mAP50-95(B)
-                     15,                0.89542,                0.98762,                0.92341,                   0.46210,                   0.65123,                     0.40124,                     0.29156
